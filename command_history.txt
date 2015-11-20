@@ -75,3 +75,101 @@
    75  git log >> log.txt
    76  ls
    77  history >> command_history.txt
+    1  git version
+    2  man
+    3  help
+    4  help
+    5  c
+    6  vr
+    7  version
+    8  ver
+    9  git version
+   10  git config --global user.name "cartik HP"
+   11  git config --global user.email "cartik007@gmail.com"
+   12  git config --list
+   13  git config --list
+   14  clear
+   15  hist
+   16  history
+   17  clear
+   18  git config user.email
+   19  git config --list
+   20  exit
+   21  git help
+   22  get help commit
+   23  git commit help
+   24  git help commit
+   25  clear
+   26  pwd
+   27  cd ~
+   28  pwd
+   29  cd ..
+   30  cd ..
+   31  cd ~
+   32  pwd
+   33  cd Desktop
+   34  pwd
+   35  ls
+   36  cd Tuna*
+   37  pwd
+   38  ls
+   39  git init
+   40  ls
+   41  cd ~
+   42  pwd
+   43  cd /Desktop/Tuna GIT
+   44  cd Desktop
+   45  ls
+   46  cd Tuna*
+   47  ls
+   48  pwd
+   49  ls
+   50  ls -lart
+   51  cd .git
+   52  pwd
+   53  ls
+   54  cd config
+   55  ls
+   56  cd objects
+   57  ls
+   58  cd pack
+   59  ls
+   60  cd ..
+   61  ls
+   62  cd ..
+   63  ls
+   64  cd ..
+   65  ls
+   66  clear
+   67  ls
+   68  git add .
+   69  git commit -m "first code version"
+   70  ls
+   71  git log
+   72  git log --author="cartik"
+   73  git log --author="cartik98"
+   74  git log
+   75  git log >> log.txt
+   76  ls
+   77  history >> command_history.txt
+   78  git status
+   79  add .
+   80  git add .
+   81  git status
+   82  ls
+   83  git status
+   84  git add command_history.txt
+   85  git add log.txt
+   86  commit -m "second code version ...2 files added"
+   87  git  commit -m "second code version ...2 files added"
+   88  git status
+   89  git log
+   90  git list
+   91  git status
+   92  ls
+   93  git status
+   94  git add bucky.txt
+   95  git status
+   96  git commit -m "modified bucky.txt with a smiley"
+   97  git status
+   98  history >> command_history.txt
